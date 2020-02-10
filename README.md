@@ -1,0 +1,2 @@
+# staticproject
+Static Project Site
